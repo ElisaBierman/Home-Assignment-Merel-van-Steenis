@@ -5,12 +5,12 @@ Project Title: Programming for Psychologist, FMRI working memory data
 
 Name: Merel van Steenis
 
-Date of Completion:
+Date of Completion: 2 december
 
 Link to website with data: https://neurosynth.org/analyses/terms/working%20memory/ 
 
 Description of the project:
-Visualizing Fmri data of the strength between specific brain regions and Working Memory function. 
+Visualizing and analyzing anatomical and functional maps from the Neurosynth website. Looking at the strength between specific brain regions and Working Memory function. Plotting a histogram to analyse voxel intensities.
 
 Table of Contents:
 - anatomical scan data: "anataomical.nii.gz"
